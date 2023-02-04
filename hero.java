@@ -1,4 +1,4 @@
-public interface hero {
+public interface Hero {
 
     void getHealth();
 
@@ -20,4 +20,4 @@ public interface hero {
 
     void moveForward();
 
-    void moveBack()
+    void moveBack();
